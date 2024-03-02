@@ -1,4 +1,4 @@
-# design-patterns-java
+# design-patterns-spring-boot
 
 Design patterns are reusable solutions to common problems that arise in software design. They provide a way to create modular, maintainable, and scalable software by capturing best practices and proven design principles. 
 
